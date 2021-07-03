@@ -4,6 +4,12 @@ h1{
 h3{
   color: chartreuse;
   background-color: cyan;
+  height: 40px;
+  width: 60%;
+  border: crimson solid 5px;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
 }
 
 p{
